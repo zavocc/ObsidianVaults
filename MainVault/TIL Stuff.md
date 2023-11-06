@@ -1,0 +1,1 @@
+- 11-06-2023: The first computer was ever made was "Abacus" (?)

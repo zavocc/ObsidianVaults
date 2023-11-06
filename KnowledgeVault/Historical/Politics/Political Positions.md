@@ -3,7 +3,7 @@ Information updated on 11/3/2023
 
 # Positions
 
-![[IMG_20231105_220007_290.jpg]]
+![IMAGE](./__assets/IMG_20231105_220007_290.jpg)
 ## Presidents in the Philippines
 https://en.m.wikipedia.org/wiki/List_of_presidents_of_the_Philippines
 The President of the **Philippines** has **17** presidents starting from January 23 1899, starting with **Emilio Aguinaldo** with **no vice president** on the [First Republic Era](https://en.m.wikipedia.org/wiki/First_Philippine_Republic) 
