@@ -36,3 +36,18 @@ https://www.google.com/search?q=what+is+net+in+business+money
 Gross is basically the amount of money **earned from goods and services** ***before it is being subtracted*** by expenses
 
 Net on the other hand is the amount of money earned from goods and services but it ***subtracts*** the expenses
+
+## What is an Interest?
+Interest is the fee a business pays a lender (creditor) to borrow money, in other words, when a seller asks a person to borrow their money to help run a business, they pay them back
+
+https://www.bdc.ca/en/articles-tools/entrepreneur-toolkit/templates-business-guides/glossary/interest#:~:text=Interest%20is%20the%20fee%20a,an%20agreed%2Dupon%20interest%20rate.
+
+https://www.nerdwallet.com/article/banking/how-to-calculate-interest-in-a-savings-account
+
+***The formula for interest is:***
+`Interest` = `P` * `R` * `T`
+P = Principal Amount (the beginning of balance)
+R = Interest rate (percentage, usually in decimel form. e.g. 4% -> 0.04)
+	This is calculated by dividing the percentage to 100 (4/100 = 0.04)
+T = Time Interval (usually one year)
+
